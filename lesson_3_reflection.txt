@@ -9,6 +9,12 @@ for addtional control
 more playing about
 
 
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+Forks clones on git hub. Allow traceability to original created.
+Clones, copies
+Branch creates new series of changes
+
 
 
 
