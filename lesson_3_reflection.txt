@@ -6,6 +6,8 @@ Why might you want to always pull changes manually rather than having Git automa
 
 for addtional control
 
+more playing about
+
 
 
 
