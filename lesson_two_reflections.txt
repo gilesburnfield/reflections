@@ -6,3 +6,28 @@ It adds a .git file which ome how tracks history
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 
 Staging area is intemiate area, where files can be added before a commit.. 
+
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+When your making alternative senarios for your code.. For instance this fast and slow option. Differnet pice of work.. Master branch always works..
+
+
+How do the diagrams help you visualize the branch structure?
+	By allowing you to see the differnt nodes, masters etc..
+
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+	Merged outcome becomes master
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+One faster, could result in code not working.. Other more time consuming..
+
+
+
+	
+
+
+
+
